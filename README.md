@@ -1,2 +1,2 @@
-# TicTacToe
+# GitDemo
 My first git repository.
